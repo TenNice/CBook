@@ -44,7 +44,7 @@ void OrangeBox::Del(int delorange)
 int main()
 {
 	OrangeBox myOrangeBox;
-	myOrangeBox.Del(1);
+	//myOrangeBox.Del(1);
 	myOrangeBox.Add(1);
 
 	int num = myOrangeBox.GetTotal();
