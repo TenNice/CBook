@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+/*
 class OrangeBox {
 public:
 	// 생성자 선언
@@ -52,4 +52,4 @@ int main()
 	printf("상자 속의 오렌지 : %d개\n", myOrangeBox.GetTotal());
 
 	return 0;
-}
+}*/
